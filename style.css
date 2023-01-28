@@ -1,0 +1,24 @@
+#main{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -70%);
+    height: 320px;
+    width: 400px;
+}
+
+body {
+    background-color: #198754;
+    color: hsl(183, 60%, 57%);
+}
+
+.form-check-input {
+    cursor: pointer;
+}
+
+h1, p, label {
+    text-align: center;
+    font-family: 'Segoe UI', sans-serif;
+}
